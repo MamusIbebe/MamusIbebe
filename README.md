@@ -1,8 +1,10 @@
-<h1>Hi, I'm Mamus! <br/><a href="https://github.com/joshmadakor1"></a>Cybersecurity Analyst</a>, <a 
+<h1>Hi, I'm Mamus! <br/><a href="https://github.com/joshmadakor1"></a>Cybersecurity Analyst</a>, 
 
 
 
 <h3>👨‍💻 Cybersecurity Project Projects:</h3>
+
+https://github.com/MamusIbebe/MS-AZURE-HONEYNET-SOC-MANAGEMNT
 
 https://github.com/MamusIbebe/NESSUS-VULNERABILITY-LAB
 
@@ -20,12 +22,12 @@ https://github.com/MamusIbebe/OpenVAS-LAB
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on FEMA certification
+- 🌱 I’m currently learning  SPLUNK environment
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 We learn everyday
+- 💬 Ask me about anything
+- 📫 How to reach me: ibebegoodluck@hotmail.com or kluvent070@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Always learning something interesting and keeping update 
 -->
