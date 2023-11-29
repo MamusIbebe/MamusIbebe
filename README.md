@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on FEMA certification
 - 🌱 I’m currently learning  SPLUNK environment
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on lab and project development...
 - 🤔 We learn everyday
 - 💬 Ask me about anything
 - 📫 How to reach me: ibebegoodluck@hotmail.com or kluvent070@gmail.com
