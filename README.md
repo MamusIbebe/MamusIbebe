@@ -23,7 +23,7 @@ https://github.com/MamusIbebe/OpenVAS-LAB
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS CCP, CISA, CCNA and CISSP certification
-- 🌱 I’m currently learning  SPLUNK environment
+- 🌱 I’m have previously worked on AWS, Microsoft Azure and SPLUNK environment
 - 👯 I’m looking to collaborate on lab and project development...
 - 🤔Professional Security Profassional
 - 💬 Ask me about anything
