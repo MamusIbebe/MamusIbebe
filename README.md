@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mamus! <br/><a href="https://github.com/joshmadakor1"></a>Cybersecurity Analyst</a>, 
+<h1>Hi, I'm Mamus! <br/><a href="https://github.com/joshmadakor1"></a>Linux System Admin, Cybersecurity Analyst</a>, 
 
 
 
