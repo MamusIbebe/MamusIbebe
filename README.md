@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mamus! <br/><a href="https://github.com/joshmadakor1"></a>Linux System Admin | Production Support | Kubernetes Admin </a>
 
 
-https://github.com/MamusIbebe/netflix-devsecops-pipeline
+
 
 <h3>👨‍💻 Cybersecurity Project Projects:</h3>
 
@@ -9,7 +9,7 @@ https://github.com/MamusIbebe/MS-AZURE-HONEYNET-SOC-MANAGEMNT
 
 https://github.com/MamusIbebe/NESSUS-VULNERABILITY-LAB
 
-
+https://github.com/MamusIbebe/netflix-devsecops-pipeline
 
 https://github.com/MamusIbebe/OpenVAS-LAB
 
